@@ -1,6 +1,6 @@
 # smart-expense-savings-manager
 
-A Java console application designed to help users track income, expenses, savings goals, and financial progress.
+A Java console application designed to help users track income, expenses, savings goals, and financial progress
 
 Features
 
